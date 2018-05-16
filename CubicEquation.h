@@ -109,5 +109,8 @@ CubicEquation::CubicEquation()
     std::complex<double > root1(0,0);
     std::complex<double > root2(0,0);
     std::complex<double > root3(0,0);
+
+    std::cout << "P = " << P << std::endl;
+    std::cout << std::endl;
 }
 #endif //CUBICEQUATION_H

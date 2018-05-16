@@ -6,6 +6,7 @@
 #include "GibbsPotetial.h"
 #include <cmath>
 
+
 #ifndef EXPONATION_H
 #define EXPONATION_H
 
@@ -25,11 +26,9 @@ Exponation::Exponation()
 
     exponation = exp(-(2 * dG)/(8.31 * T));
 
-    /*std::cout << "dG = " << dG << std::endl;
+    std::cout << "dG = " << dG << std::endl;
     std::cout << "T = " << T << std::endl;
     std::cout << "exp = " << exponation << std::endl;
-    std::cout << std::endl;*/
-
-
+    
 }
 #endif //EXPOTATION_H
