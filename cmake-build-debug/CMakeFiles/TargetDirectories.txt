@@ -1,0 +1,3 @@
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/cmake-build-debug/CMakeFiles/__.dir

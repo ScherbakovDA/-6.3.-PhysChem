@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/CubicEquation.h
+complex
+-
+Exponation.h
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/Exponation.h
+Temperature.h
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/Temperature.h
+Pressure.h
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/Pressure.h
+math.h
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/math.h
+iostream
+-
+
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/DeltaCapacity.h
+
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/DeltaEnthaply.h
+DeltaCapacity.h
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/DeltaCapacity.h
+Temperature.h
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/Temperature.h
+
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/DeltaEntropy.h
+DeltaCapacity.h
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/DeltaCapacity.h
+Temperature.h
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/Temperature.h
+cmath
+-
+
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/Exponation.h
+Temperature.h
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/Temperature.h
+GibbsPotetial.h
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/GibbsPotetial.h
+cmath
+-
+
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/GibbsPotetial.h
+DeltaCapacity.h
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/DeltaCapacity.h
+DeltaEnthaply.h
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/DeltaEnthaply.h
+DeltaEntropy.h
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/DeltaEntropy.h
+
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/Pressure.h
+
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/Temperature.h
+
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/main.cpp
+iostream
+-
+CubicEquation.h
+/home/denis/Рабочий стол/Химическая термодинамика(дз)/Программа для вычислений/CubicEquation.h
+
