@@ -29,6 +29,6 @@ Exponation::Exponation()
     std::cout << "dG = " << dG << std::endl;
     std::cout << "T = " << T << std::endl;
     std::cout << "exp = " << exponation << std::endl;
-    
+
 }
 #endif //EXPOTATION_H
