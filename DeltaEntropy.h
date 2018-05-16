@@ -4,6 +4,7 @@
 
 #include "DeltaCapacity.h"
 #include "Temperature.h"
+#include "Pressure.h"
 #include <cmath>
 
 #ifndef DELTAENTROPY_H
@@ -21,11 +22,13 @@ DeltaEntropy::DeltaEntropy()
 {
     DeltaCapacity dc;
     Temperature t;
+    Pressure p;
+    double P = p.P;
     double dCp = dc.dCp;
     double T = t.T;
 
     dS0 = 86.59;
 
-    dS = dS0 + dCp * logf(T/298);
+    dS = dS0 + dCp * logf(T/298) - 8.31 * log(P);
 }
 #endif //DELTAENTROPY_H
